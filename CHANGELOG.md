@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-planetscale/compare/v1.1.0...v1.1.1) (2026-07-19)
+
+
+### Bug Fixes
+
+* set default branch to main ([45ed417](https://github.com/CoCreate-app/CoCreate-planetscale/commit/45ed41794be1b23b273c1add800a75dd6e88339c))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-planetscale/compare/v1.0.0...v1.1.0) (2026-07-19)
 
 
