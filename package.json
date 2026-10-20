@@ -46,8 +46,7 @@
   "main": "./src/index.js",
   "exports": {
     ".": "./src/index.js",
-    "./dist": "./dist/planetscale.js",
-    "./installer": "./installer/planetscale.installer.js"
+    "./dist": "./dist/planetscale.js"
   },
   "devDependencies": {
     "@cocreate/webpack": "^1.9.0"
