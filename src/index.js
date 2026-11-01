@@ -29,9 +29,18 @@ import mysql from "@cocreate/mysql";
  * This standardized protocol operates across all database drivers and third-party
  * APIs, allowing seamless, parallel multi-database state routing across backends
  * without exposing underlying engine-specific APIs to the application layer.
+ * @public
+ * @environment server
  */
 export const send = (data) => {
     return mysql.send(data);
 };
 
 export default { send };
+
+/**
+ * Lightweight, real-time PlanetScale CRUD wrapper and multi-tenant state routing client for the collaborative CoCreate ecosystem.
+ *
+ * @module planetscale
+ * @environment server
+ */
