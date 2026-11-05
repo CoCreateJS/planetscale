@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/CoCreateJS/planetscale/compare/v2.0.0...v2.0.1) (2026-11-05)
+
+
+### Bug Fixes
+
+* upgrade CoCreate dependencies to v2 ([2abf479](https://github.com/CoCreateJS/planetscale/commit/2abf4792b77f24786265e92714029919a44393c2))
+
 # [2.0.0](https://github.com/CoCreateJS/planetscale/compare/v1.1.1...v2.0.0) (2026-11-02)
 
 
