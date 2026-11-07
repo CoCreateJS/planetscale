@@ -49,10 +49,10 @@
     "./dist": "./dist/planetscale.js"
   },
   "devDependencies": {
-    "@cocreate/webpack": "^2.0.0"
+    "@cocreate/webpack": "^2.0.1"
   },
   "dependencies": {
-    "@cocreate/mysql": "^2.0.0",
-    "@cocreate/utils": "^2.0.0"
+    "@cocreate/mysql": "^2.0.1",
+    "@cocreate/utils": "^2.0.2"
   }
 }
